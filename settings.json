@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Davis_Smp.aternos.me:50373",
+    "ip": "hostsmp12.aternos.me:50373",
     "port": 50373,
     "version": "1.21.11",
     "try-creative": false
